@@ -1,5 +1,7 @@
 # PH-Dropout: Practical Epistemic Uncertainty Quantification for View Synthesis
 
+Chuanhao Sun, Thanos Triantafyllou, Anthos Makris, Maja Drmač, Kai Xu, Luo Mai, and Mahesh K. Marina
+
 ## Clone the repository
 HTTPS:
 ```
