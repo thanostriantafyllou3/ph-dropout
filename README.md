@@ -2,6 +2,8 @@
 
 Chuanhao Sun, Thanos Triantafyllou, Anthos Makris, Maja Drmač, Kai Xu, Luo Mai, and Mahesh K. Marina
 
+[Download Paper](https://arxiv.org/pdf/2410.05468)
+
 ## Clone the repository
 HTTPS:
 ```
